@@ -6,7 +6,7 @@ import java.util.Optional;
 import java.util.Set;
 
 public class Dev {
-    private String nome;
+    private String name;
     private Set<Conteudo> conteudosInscritos = new LinkedHashSet<>();
     private Set<Conteudo> conteudosConcluidos = new LinkedHashSet<>();
 
